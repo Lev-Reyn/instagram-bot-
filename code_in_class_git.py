@@ -819,8 +819,7 @@ class InstagramBot:
             print(Fore.LIGHTGREEN_EX + f'ошибка в unsubscribe_one {ex}' + Style.RESET_ALL)
 
 
-my_login = 'lv_rey'
-my_password = 'LEV60605010ru'
+
 
 for user, data_dict in ussers_setting_dict.items():
     if user == 'user2': continue
